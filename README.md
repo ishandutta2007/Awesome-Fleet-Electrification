@@ -67,7 +67,7 @@ This directory categorizes both **community-driven open-source software** and **
 
 Open-source Charge Point Management Systems (CSMS) and protocol backends supporting OCPP 1.6J and OCPP 2.0.1.
 
-| 🚀 Project | ⭐️ Stars | 📜 License | 📝 Description & Focus |
+| 🚀 Project | ⭐️ Github_Stars | 📜 License | 📝 Description & Focus |
 |:---|:---|:---|:---|
 | **[steve-community/steve](https://github.com/steve-community/steve)** | [<img src="https://img.shields.io/github/stars/steve-community/steve?style=social&color=white" alt="steve Stars"/>](https://github.com/steve-community/steve/stargazers) | MIT | De-facto open-source OCPP 1.2 / 1.5 / 1.6 SOAP/JSON charge point management server in Java with web UI. |
 | **[mobilityhouse/ocpp](https://github.com/mobilityhouse/ocpp)** | [<img src="https://img.shields.io/github/stars/mobilityhouse/ocpp?style=social&color=white" alt="ocpp Stars"/>](https://github.com/mobilityhouse/ocpp/stargazers) | MIT | Python implementation of the Open Charge Point Protocol (OCPP) supporting 1.6 and 2.0.1. |
@@ -79,7 +79,7 @@ Open-source Charge Point Management Systems (CSMS) and protocol backends support
 
 Open-source embedded stacks and firmware run directly on EV charger hardware controllers.
 
-| 🚀 Project | ⭐️ Stars | 📜 License | 📝 Description & Focus |
+| 🚀 Project | ⭐️ Github_Stars | 📜 License | 📝 Description & Focus |
 |:---|:---|:---|:---|
 | **[matth-x/MicroOcpp](https://github.com/matth-x/MicroOcpp)** | [<img src="https://img.shields.io/github/stars/matth-x/MicroOcpp?style=social&color=white" alt="MicroOcpp Stars"/>](https://github.com/matth-x/MicroOcpp/stargazers) | MIT | Compact C/C++ OCPP 1.6J client library tailored for microcontrollers (ESP32, Arduino, embedded Linux). |
 | **[EVerest/EVerest](https://github.com/EVerest/EVerest)** | [<img src="https://img.shields.io/github/stars/EVerest/EVerest?style=social&color=white" alt="EVerest Stars"/>](https://github.com/EVerest/EVerest/stargazers) | Apache-2.0 | Linux Foundation Energy software stack for EV charging stations, orchestrating OCPP, ISO 15118, and power control. |
@@ -89,7 +89,7 @@ Open-source embedded stacks and firmware run directly on EV charger hardware con
 
 Open-source routing engines, optimization solvers, and simulation frameworks customized for electric vehicle energy profiles.
 
-| 🚀 Project | ⭐️ Stars | 📜 License | 📝 Description & Focus |
+| 🚀 Project | ⭐️ Github_Stars | 📜 License | 📝 Description & Focus |
 |:---|:---|:---|:---|
 | **[Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend)** | [<img src="https://img.shields.io/github/stars/Project-OSRM/osrm-backend?style=social&color=white" alt="osrm Stars"/>](https://github.com/Project-OSRM/osrm-backend/stargazers) | BSD-2-Clause | High-performance OpenStreetMap routing engine in C++ modifiable with custom EV consumption & elevation profiles. |
 | **[graphhopper/graphhopper](https://github.com/graphhopper/graphhopper)** | [<img src="https://img.shields.io/github/stars/graphhopper/graphhopper?style=social&color=white" alt="graphhopper Stars"/>](https://github.com/graphhopper/graphhopper/stargazers) | Apache-2.0 | Flexible Java routing engine with custom weighting models for EV range optimization and battery consumption constraints. |
